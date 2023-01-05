@@ -4,7 +4,7 @@ Exploratory Data Analysis on Adult income
 Dataset: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
 # About Dataset
-###Fields
+### Fields
 The dataset contains 16 columns
 Target filed: Income
 -- The income is divide into two classes: <=50K and >50K
