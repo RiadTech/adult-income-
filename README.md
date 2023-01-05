@@ -1,5 +1,5 @@
 # adult-income
-![Screenshot](screenshot.png)
+![Screenshot](dataset-cover.jpeg)
 Exploratory Data Analysis on Adult income 
 
 Dataset: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
